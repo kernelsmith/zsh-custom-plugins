@@ -8,7 +8,7 @@
 #### \curl -sSL https://github.com/kernelsmith/zsh-custom-plugins/blob/master/README.md | sh
 #### or, download the README.md and just run it with ./README.md
 
-#---------------------------------------------------------------
+#----------------------------------
 
 ##### git transport should be either "https://github.com/" or "git@github.com:"
 ##### note the trailing / and : on those
